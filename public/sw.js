@@ -1,0 +1,1 @@
+console.warn('sw file from public folder');
